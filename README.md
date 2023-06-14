@@ -39,7 +39,7 @@ The circuits of the [Rate-Limit Nullifier Github](https://github.com/zBlock-1/ci
 
 The scope of the review consisted of the following circuits within the repo:
 
-- **Circuits**
+**Circuits**
 - rln.circom
 - utils.circom
 - withdraw.circom
