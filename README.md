@@ -22,6 +22,7 @@
 6. [Code Evaluation Matrix](#code-evaluation-matrix)
 7. [Findings Explanation](#findings-explanation)
     - [Low 1](#1-low---unused-public-inputs-optimized-out)
+    - [Low 2](#2-low---specification-uses-incorrect-definition-of-identity-commitment)
 8. [Final remarks](#final-remarks)
 9. [CircomSpect Output](#circomSpect-output)
 
