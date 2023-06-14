@@ -10,8 +10,8 @@
 
 **Auditors:**
 
- - @MarkuSchick
- - @Elpacos
+ - [@MarkuSchick](https://github.com/MarkuSchick)
+ - [@Elpacos](https://github.com/Elpacos)
 
 ## Table of Contents <!-- omit in toc -->
 
