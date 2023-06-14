@@ -10,7 +10,8 @@
 
 **Auditors:**
 
- - markus
+ - @MarkuSchick
+ - @Elpacos
 
 ## Table of Contents <!-- omit in toc -->
 
