@@ -22,7 +22,7 @@
 5. [Tools used](#tools-used)
 6. [Code Evaluation Matrix](#code-evaluation-matrix)
 7. [Findings Explanation](#findings-explanation)
-    - [Low 1](#1-low---unused-public-inputs-optimized-out)
+    - [Low 1](#1-low---unused-public-inputs-can-be-optimized-out)
     - [Low 2](#2-low---specification-uses-incorrect-definition-of-identity-commitment)
 8. [Final remarks](#final-remarks)
 9. [CircomSpect Output](#circomSpect-output)
@@ -97,7 +97,7 @@ None.
 
 #### REPORTED BY markus, elpacos:
 
-### 1. Low - Unused public inputs ban be optimized out
+### 1. Low - Unused public inputs can be optimized out
 
 As described in the [0xParc ZK Bug Tracker](https://github.com/0xPARCzk-bug-tracker#5-unused-public-inputs-optimized-out) the [circom optimizer](https://docs.circom.io/getting-started/compilation-options/#flags-and-options-related-to-the-compilers-output) can remove public inputs that are unused. 
 
